@@ -1,0 +1,17 @@
+Supported-Languages:
+- pt-br
+- en-us
+
+DefaultLang: en-us
+
+Messages:
+    pt-br:
+        Selected: Selecionado
+        Select: Clique para selecionar
+        AlreadySelected: Esta linguagem já está selecionada!
+        LangSelected: Você trocou a linguagem para 'PT-BR'
+    en-us:
+        Selected: Selected
+        Select: Click to select
+        AlreadySelected: This language is already selected!
+        LangSelected: You switched the language to 'EN-US'
